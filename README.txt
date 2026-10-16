@@ -1,0 +1,1 @@
+MPI Online — Petualangan Ukur!\nMatematika Kelas III SD Negeri 8 Kodeoha.\nBuka index.html untuk uji lokal. Baca PANDUAN_PUBLIKASI.md untuk mengunggah ke hosting.\nSitus statis, responsif, tidak membutuhkan internet saat dijalankan secara lokal.\n
